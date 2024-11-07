@@ -1,0 +1,4 @@
+isconfig
+iptables -F 
+telnet 192.168.122.1 9080
+nc -l 9080
